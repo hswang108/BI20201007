@@ -6,7 +6,12 @@
 
 ## Python簡介
 
-投影片：https://bit.ly/3d5Bd8N
+相關連結：
+
+* 投影片：[Python基礎](https://bit.ly/3d5Bd8N)
+* 講義：[Python Fundamentals](https://github.com/victorgau/python_fundamentals)
+* 練習：[Python Exercises](https://github.com/victorgau/python_exercises)
+
 
 ### 核心觀念 1
 

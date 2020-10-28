@@ -2,9 +2,10 @@
 
 
 
-參考連結：
+相關連結：
 
 * [Hands on Data Science with Marketing](https://github.com/PacktPublishing/Hands-On-Data-Science-for-Marketing)
+* [mlxtend](http://rasbt.github.io/mlxtend/)
 
 參考書籍：
 
